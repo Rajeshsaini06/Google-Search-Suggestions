@@ -1,0 +1,21 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  height: 35px;
+}
+
+img {
+  height: 20px;
+}
+
+button {
+  height: 20px;
+  background-color: transparent;
+  border-width: 0px;
+}
+ul {
+  height: 100px;
+}
